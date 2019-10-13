@@ -4,7 +4,7 @@ Original paper can be found [here](https://arxiv.org/pdf/1812.04948.pdf), the or
 
 This code is exactly the same as the source code with the training configuration altered to suit the need of Style Generation in fashion, making it a simpler interface to train on a custom dataset.  
 
-Apart from folders fakes, generated, snapshots and script generate_random_samples.py, which were additionally written for convenience.
+Folders fakes, generated, snapshots and script generate_random_samples.py are additional and were additionally written for  additional convenience.
 
 ## Training
 
