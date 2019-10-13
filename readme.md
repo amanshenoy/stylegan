@@ -8,7 +8,8 @@ Folders fakes, generated, snapshots and script generate_random_samples.py are ad
 
 ## Training
 
-The code has been customized to accept a custom dataset all of uniform square size with the size being a power of 2 (1024, 512, 256...) upto 1024.
+The code has been customized to accept a custom dataset all of uniform square size with the size being a power of 2 (1024, 512, 256...) upto 1024.  
+
 *The code configuration can be further customized by uncommenting and commenting certain configurations in ./training/training_loop.py*
 
 The code accepts only .tfrecord files which the whole training data needs to be converted to using dataset_tool.py 
