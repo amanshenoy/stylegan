@@ -17,7 +17,7 @@ The code accepts only .tfrecord files which the whole training data needs to be 
     >> # Where datasets/smalls is the destination of .tfrecord files and ../fashion/ is the source dataset
 
 After converting the dataset, change the script /training/training_loop.py to accept a network snapshot from ./snapshots/ 
-./snapshots/ currently has 2 snapshots, one of trained faces (11155) and one of trained fashion images (11845), either of which could be used as initialization for training
+./snapshots/ currently has a readme that leads to download links for two snapshots, one of trained faces (11155) and one of trained fashion images (11845), either of which could be used as initialization for training
 
 After making these changes-- 
 
