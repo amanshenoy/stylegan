@@ -1,6 +1,6 @@
 ## StyleGAN - for Style Generation in fashion
 
-Original paper can be found [here](https://arxiv.org/pdf/1812.04948.pdf), the original source code [here](https://github.com/NVlabs/stylegan), and a demonstration of a few properties in [this video](https://www.youtube.com/watch?v=kSLJriaOumA&feature=youtu.be), and an [alternate implementation](https://colab.research.google.com/drive/1wsxc0lZzu1wQv6Wy3iJrA1wAt3B27SKQ#scrollTo=C1ME1QLCtme5) on colab
+Original paper can be found [here](https://arxiv.org/pdf/1812.04948.pdf), the original source code [here](https://github.com/NVlabs/stylegan), and a demonstration of a few properties in [this video](https://www.youtube.com/watch?v=kSLJriaOumA&feature=youtu.be).
 
 This code is exactly the same as the source code with the training configuration altered to suit the need of Style Generation in fashion, making it a simpler interface to train on a custom dataset.  
 
